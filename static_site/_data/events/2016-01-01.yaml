@@ -1,0 +1,20 @@
+date: 2016-06-08
+name: Dummy event
+url: https://jsheroes.io/
+# one of:
+# conference, workshop, podcast
+type: conference
+title: 'Node.js Security: Breaking The Loop'
+slides_url: https://
+recording_url: https://
+city: Cluj-Napoca
+country: Romania
+language: English
+recognitions:
+  - twitter:
+    - https://twitter.com/cassilup/status/873099534326353926
+    - https://twitter.com/cassilup/status/873099534326353926
+    - https://twitter.com/cassilup/status/873099534326353926
+image_header: https://
+images:
+  - https://
