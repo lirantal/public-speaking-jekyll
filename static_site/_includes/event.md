@@ -1,1 +1,1 @@
-| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.title }} | [Slides]({{ event.slides_url }}) | [Recording]({{ event.recording_url }}) | {{ event.city }} {{ event.country}} ({{ event.country | country_emoji }}) | {{ event.language }} |
+| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.title }} | [Slides]({{ event.slides_url }}) | [Recording]({{ event.recording_url }}) | {{ event.city }} {{ event.country}} ({{ event.country | country_emoji }} ) | {{ event.language }} |
