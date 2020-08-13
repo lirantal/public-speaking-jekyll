@@ -1,4 +1,13 @@
-{% include event-header.md %}
-{% for event_hash in site.data.events %}{% assign event = event_hash[1] %}{% include event.md %}
-  {%- if event.recognitions -%}{% include event-recognition.md %}{% if forloop.last != true %}{% include event-header.md %}{% endif %}{% endif %}
+{% assign sorted_events = site.data.events | sort | order: 'date' %}
+
+**[{{ site.data.events.size }}]** years of public speaking for Liran Tal
+
+{% for events in sorted_events reversed %}
+
+{% assign year = events[0] %}
+
+## {{ year }}
+
+{% include events-for-year.md events=events %}
+
 {% endfor %}
