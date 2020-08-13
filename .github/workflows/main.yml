@@ -23,11 +23,11 @@ jobs:
           sudo bundle install
       - name: 🧹 Clean site
         run: |
-          if [ -d "docs" ]; then
-            rm -rf docs/*
+          if [ -d "_site" ]; then
+            rm -rf _site/*
           fi
       - name: 🔨 Build site
-        run: bundle exec jekyll build -d docs
+        run: bundle exec jekyll build -d _site
       - name: 🔨 Copy generated README to repository root
         run: cp _site/index.html ../README.md
       - name: 🧪 Deploy build
