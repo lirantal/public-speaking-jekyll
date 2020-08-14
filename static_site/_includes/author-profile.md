@@ -12,6 +12,10 @@
 {% for contact in author.contact %}{% if contact.twitter_handle %}<a href="{{ contact.twitter}}"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/{{ contact.twitter_handle}}?style=social"></a>{% endif %} {% if contact.linkedin %}<a href="{{ contact.linkedin }}"><img alt="LinkedIn Add Me" src="https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>{% endif %}{% endfor %}
 </p>
 
+<p align="center">
+  <img src="https://github.com/lirantal/public-speaking-template/blob/master/press/liran-tal-header-image.png" alt="Liran Tal public speaking profile" />
+</p>
+
 *Primary activities*:
 
 * ✍️ Author of [Essential Node.js Security 2020](http://bit.ly/securenodejs)
