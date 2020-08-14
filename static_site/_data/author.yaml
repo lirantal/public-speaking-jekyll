@@ -1,2 +1,8 @@
 first_name: Liran
 last_name: Tal
+tagline_short: 'I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.'
+contact:
+  - twitter_handle: liran_tal
+  - twitter: https://twitter.com/liran_tal
+  - linkedin: https://www.linkedin.com/in/talliran
+  - github: https://github.com/lirantal
