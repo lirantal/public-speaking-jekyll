@@ -1,8 +1,33 @@
-# Liran Tal: Public Speaking
+
+<p align="center">
+  <h1 align="center">
+    Liran Tal
+  </h1>
+  <p align="center">
+    I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.
+  </p>
+</p>
+
+<p align="center">
+<a href=""><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/liran_tal?style=social"></a>   <a href="https://www.linkedin.com/in/talliran"><img alt="LinkedIn Add Me" src="https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+</p>
+
+*Primary activities*:
+
+* ✍️ Author of [Essential Node.js Security 2020](http://bit.ly/securenodejs)
+* 🔥 [Node.js CLI Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+* 💚 Member of the [NodeJS Security WG](https://github.com/nodejs/security-wg)
+* 🦸‍♂️Ambassador at @[JSHeroes](https://jsheroes.io/) @[MyDevSecOps](https://www.mydevsecops.io/)
+* 🥑 DevRel @[Snyk](https://snyk.io/)
+
+---
+
+**Table of Contents**:
+
+- [Events in 2017](#2017)
+- [Events in 2016](#2016)
 
 
-
-**[2]** years of public speaking for Liran Tal
 
 
 
