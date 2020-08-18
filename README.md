@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href=""><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/liran_tal?style=social"></a>   <a href="https://www.linkedin.com/in/talliran"><img alt="LinkedIn Add Me" src="https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+<a href="https://twitter.com/liran_tal"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/liran_tal?style=social"></a>   <a href="https://www.linkedin.com/in/talliran"><img alt="LinkedIn Add Me" src="https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
 </p>
 
 <p align="center">
