@@ -9,8 +9,12 @@ defaults:
   run:
     working-directory: ./static_site
 
+permissions: {}
+
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: 🛎 Check out master
